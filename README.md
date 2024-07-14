@@ -2,6 +2,10 @@
 
 Este repositorio contiene una colección de ejemplos de interfaces de línea de comandos (CLI) que ilustran cómo implementar las herramientas siguiendo los principios de la filosofía Unix. Cada ejemplo está diseñado para demostrar uno o más de los conceptos fundamentales de Unix, como simplicidad, modularidad y uso de texto plano.
 
+# Contenido del repositorio
+
+- [sort.py](tools/sort.md) - Este script se utiliza para copiar y eliminar pdf de una ruta.
+
 # Filosofía Unix en la Práctica
 
 Este repositorio no solo proporciona ejemplos prácticos de herramientas CLI, sino que también muestra cómo estos ejemplos implementan los principios de la filosofía Unix:
