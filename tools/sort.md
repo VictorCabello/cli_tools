@@ -16,7 +16,7 @@ Recuerda que la Filosofía Unix fomenta elecciones pragmáticas que priorizan la
 
 # Script Overview
 
-[sort.py](tools/sort.py)
+[sort.py](sort.py)
 
 ## Análisis de la Adherencia a la Filosofía Unix
 

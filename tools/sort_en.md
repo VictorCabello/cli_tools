@@ -16,7 +16,7 @@ Let's delve into how this script adheres to these principles.
 
 # Script Overview
 
-[sort.py](tools/sort.py)
+[sort.py](sort.py)
 
 # Analysis of Unix Philosophy Adherence
 
